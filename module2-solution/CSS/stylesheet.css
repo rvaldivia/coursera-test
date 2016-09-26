@@ -7,12 +7,15 @@
 }
 h1 {
   margin-bottom: 20px;
-  margin-top: 20px;
+  margin-top: 10px;
   text-align: center;
   font-size: 175%;
 
 }
 
+body{
+	padding: 10px;
+}
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
